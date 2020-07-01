@@ -1,6 +1,7 @@
 arch: 
   - arm64
   - amd64
+language: go
 services:
   - docker
 before_install:
